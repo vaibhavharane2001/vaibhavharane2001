@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Harane</h1>
-<h3 align="center">"Software Engineer | Passionate about crafting efficient solutions in Web Development & Software Engineering | Building tomorrow's technology today!"</h3>
+<h3 align="center">"Software Engineer | Passionate about cybersecurity | Passionate about crafting efficient solutions in Web Development & Software Engineering | Building tomorrow's technology today!"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavharane2001&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavharane2001" /> </p>
 
